@@ -72,7 +72,6 @@ export function getFunName() {
     "geese",
     "halves",
     "knives",
-    "wives",
     "lives",
     "elves",
     "loaves",
